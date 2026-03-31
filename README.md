@@ -1,0 +1,2 @@
+# Carnes
+Inventario de Carnes
